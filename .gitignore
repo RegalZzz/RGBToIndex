@@ -1,0 +1,8 @@
+# Ignore Visual Studio .vs folder
+.vs/
+.vs/RGB2Index/v17
+
+# Ignore build output folders
+bin/
+obj/
+obj/Release
